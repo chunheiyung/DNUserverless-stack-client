@@ -1,4 +1,6 @@
 const config = {
+  STRIPE_KEY: "pk_test_51IYFewHvgXSjDKbbQQS5qDpjw7drEjrcQoUdn1Hvq1RtfvFnCrYm3RYqFyJWvwjlITtDJNHwalpbSSY7jSbzinqX00oXXOuldm",
+  MAX_ATTACHMENT_SIZE: 5000000,
   s3: {
     REGION: "us-east-2",
     BUCKET: "cy-notes-app-upload",
